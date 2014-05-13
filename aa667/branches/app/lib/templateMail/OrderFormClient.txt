@@ -1,0 +1,3 @@
+from=>noreply@brantect.com
+subject=>BRANTECTオーダーのご確認
+body=>{$company_nm}\r\n{$user_nm}　様\r\n\r\nお世話になっております。\r\nブライツコンサルティングでございます。\r\n以下の内容でオーダーを受け付けました。\r\n\r\n理由：\r\n{$reason}\r\n\r\n分野：\r\n{$field}\r\n\r\n内容：\r\n{$contents}\r\n\r\nこのメッセージはBRANTECTより自動送信されています。\r\n心当たりのない場合は、下記メールよりお問い合わせください。\r\n\r\nsupport@brantect.com\r\n\r\n何卒よろしくお願い申し上げます。\r\n\r\n\r\n><><><><><><><><><><><><><><><><><><><><><\r\n株式会社ブライツコンサルティング\r\n〒100-6030\r\n東京都千代田区霞ヶ関3-2-5\r\n霞が関ビルディング　30F\r\nTEL.03-5521-0117  FAX.03-3523-0338\r\nhttp://brightsconsulting.com/\r\n><><><><><><><><><><><><><><><><><><><><><\r\n

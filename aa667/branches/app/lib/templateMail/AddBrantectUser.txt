@@ -1,0 +1,3 @@
+from=>noreply@brantect.com
+subject=>仮登録完了のお知らせ
+body=>{$company_nm}\r\n{$user_nm}　様\r\n\r\nBRANTECTのユーザー登録申請をいただきまして誠にありがとうございます。\r\n下記URLをクリックいただければ、無料ユーザー登録完了となります。\r\n\r\nURL：https://brantect.com/ur/app.php?k={$access_key}&c={$client_id}\r\n\r\n\r\nこのメッセージはBRANTECT無料登録システムより自動送信されています。\r\n心当たりのない場合は、下記メールよりお問い合わせください。\r\n\r\nsupport@brantect.com\r\n\r\n何卒よろしくお願い申し上げます。\r\n\r\n\r\n\r\n\r\n株式会社ブライツコンサルティング　BRANTECTサポートチーム

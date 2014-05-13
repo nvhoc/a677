@@ -1,0 +1,3 @@
+from=>noreply@brantect.com
+subject=>BRANTECTからのオーダー
+body=>会社名：\r\n{$company_nm}\r\n\r\n担当者名：\r\n{$user_nm}　様\r\n\r\nメールアドレス：\r\n{$email}\r\n\r\n理由：\r\n{$reason}\r\n\r\n分野：\r\n{$field}\r\n\r\n内容：\r\n{$contents}
